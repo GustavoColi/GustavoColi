@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @GustavoColi, I have a BA in social sciences, emphasis on political science. 
+- 👋 Hi, I'm @GustavoColi, I have a Bachelor's degree in social sciences, emphasis on political science. 
 - 👀 I’m interested in Data Science for Business
 - 🌱 I’m currently learning Python | SQL | Machine Learning | R-code
 - 💞️ I’m looking to collaborate on everything within my reach
