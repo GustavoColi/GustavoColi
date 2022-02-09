@@ -22,7 +22,7 @@
  
   ![Snake animation](https://github.com/GustavoColi/GustavoColi/blob/output/github-contribution-grid-snake.svg)
     
-  <a href="mailto:gustavocoli.col1@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gustavocoli.col1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gustavocoli/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
