@@ -9,7 +9,7 @@
 
   <a href="https://github.com/GustavoColi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoColi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoColi&layout=compact&langs_count=7&theme=dracula&https://github.com/GustavoColi/github-readme-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoColi&layout=compact&langs_count=100&theme=dracula&https://github.com/GustavoColi/github-readme-stats" />
 
 </div>
   
