@@ -1,9 +1,6 @@
 - 👋 Olá, meu nome é Gustavo Coli, sou formado em Bacharelado em ciências sociais, ênfase em ciência política.
 - 👀 Tenho interesse em Data Science.
-- 🌱 Atualmente estou estudando Python | SQL | Machine Learning | R-code.
-- Minha ideia é unir a ciência de dados para aplicar em Relações institucionais e Governamentais.
-- Também tenho interesse teórico e prático em Lobby, Advocacy, Políticas de pressão e políticas públicas.
-- Para quem se interessar aqui está o link da minha monografia, com o título "Democracia, sociedade civil e lobby no Brasil: um mapeamento da literatura (2000-2020)" <https://repositorio.ufscar.br/handle/ufscar/15211>
+- 🌱 Aqui encontramos alguns estudos de Python | SQL | Machine Learning | R-code.
 
 <div align="center">
 
