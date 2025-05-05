@@ -1,3 +1,5 @@
+![Selfie_gus](https://github.com/user-attachments/assets/77928f98-19c8-4182-84ac-66886a476daf)
+
 - 👋 Olá, meu nome é Gustavo Coli, sou formado em Bacharelado em ciências sociais, ênfase em ciência política.
 - 👀 Tenho interesse em Data Science.
 - 🌱 Aqui encontramos alguns estudos de Python | SQL | Machine Learning | R-code.
